@@ -1,6 +1,7 @@
 collections:
   authors:
     output: true
+url: "https://rajat19.github.io/jackal"
 
 defaults:
   - scope:
@@ -17,4 +18,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-      baseUrl: "https://rajat19.github.io/jackal"
